@@ -31,7 +31,7 @@ public class board {
             System.out.println("Board Position: "+position+"\n");
         }
     }
-    
+    //starting the game
     public void rollDiceToLeave(){
         
         System.out.print("Press enter to roll the dice!\n");
