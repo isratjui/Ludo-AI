@@ -17,6 +17,7 @@ public class board {
         }
     }
     
+    //generating number in dice
     public void rollDice(){
         System.out.println("Press enter to roll the dice!");
         String s = sc.nextLine();
